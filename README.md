@@ -84,6 +84,14 @@
 - [ ] http://lesswrong.com/lw/jbe/walkthrough_of_definability_of_truth_in/
 - [ ] https://intelligence.org/files/DefinabilityTruthDraft.pdf
 - [ ] https://intelligence.org/files/ProblemsSelfReference.pdf
+- [ ] http://lesswrong.com/lw/jca/walkthrough_of_the_tiling_agents_for/
+- [ ] https://intelligence.org/files/TilingAgentsDraft.pdf
+- [ ] https://intelligence.org/files/ProbabilisticLogicProcrastinates.pdf
+- [ ] https://intelligence.org/files/DistributionsAllowingTiling.pdf
+- [ ] https://intelligence.org/files/DecreasingStrength.pdf
+- [ ] https://intelligence.org/files/FallensteinsMonster.pdf
+- [ ] http://intelligence.org/files/ConsistencyWaterfall.pdf
+- [ ] http://lukemuehlhauser.com/wp-content/uploads/Franzen-Transfinite-progressions-a-second-look-at-completeness.pdf
 
 ## Corrigibility
 - [ ] http://lesswrong.com/lw/jxa/proper_value_learning_through_indifference/
